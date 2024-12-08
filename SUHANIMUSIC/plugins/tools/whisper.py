@@ -1,4 +1,4 @@
-from PROMUSIC import app as app
+from SUHANIMUSIC import app as app
 from config import BOT_USERNAME
 from pyrogram import filters
 from pyrogram.errors import Unauthorized
