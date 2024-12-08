@@ -47,7 +47,7 @@ def circle(pfp, size=(450, 450)):
 
 
 def welcomepic(pic, user, chatname, id, uname):
-    background = Image.open("SUHANIMUSIC/assets/wel2.png")
+    background = Image.open("SUHANIMUSIC/assets/wel3.png")
     pfp = Image.open(pic).convert("RGBA")
     pfp = circle(pfp)
     pfp = pfp.resize((447, 447))
