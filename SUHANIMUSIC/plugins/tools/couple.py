@@ -14,8 +14,8 @@ from SUHANIMUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="SUHANIMUSIC",
-            url=f"https://t.me/venompratapchat",
+            text="VENOM MUSIC",
+            url=f"https://t.me/+vX5qi7eJ5MlhYTM1",
         ),
     ],
 ]
