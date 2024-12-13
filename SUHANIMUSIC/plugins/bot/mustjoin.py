@@ -6,7 +6,7 @@ from SUHANIMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "+vX5qi7eJ5MlhYTM1"
+MUST_JOIN = "venompratapchat"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
