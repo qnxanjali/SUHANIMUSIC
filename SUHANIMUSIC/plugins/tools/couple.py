@@ -15,7 +15,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="VENOM MUSIC",
-            url=f"https://t.me/+vX5qi7eJ5MlhYTM1",
+            url=f"https://t.me/venompratapchat",
         ),
     ],
 ]
