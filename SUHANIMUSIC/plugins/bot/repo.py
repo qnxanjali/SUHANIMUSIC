@@ -36,7 +36,7 @@ async def start(_, msg):
           InlineKeyboardButton("◉ ᴏᴡɴᴇʀ ◉", url="https://t.me/VENOM_PRATAP"),
           ],
                [
-                InlineKeyboardButton("◉ ᴜᴘᴅᴀᴛᴇs ◉", url="https://t.me/venompratapchat"),
+                InlineKeyboardButton("◉ ᴜᴘᴅᴀᴛᴇs ◉", url="https://t.me/venompratap"),
 
 ]]
     
