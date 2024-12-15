@@ -91,6 +91,6 @@ async def handle_mentions(client, message: Message):
         try:
             # Delete the message and send the "Fuck off" message
             await message.delete()
-            await message.reply_text(f"Ignore Kiye The ?, {message.from_user.mention} !!\n\n - @ZeoXD")
+            await message.reply_text(f"Ignore Kiye The ?, {message.from_user.mention} !!\n\n - @VENOM_PRATAP")
         except Exception as e:
             print(f"Error in deleting or replying: {e}")
